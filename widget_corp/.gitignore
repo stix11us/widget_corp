@@ -1,2 +1,3 @@
 !.gitignore
-widget_corp/includes/db_connection.php
+
+/includes/db_connection.php
